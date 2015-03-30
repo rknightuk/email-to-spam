@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Email is spam",
+	"version": "1.0",
+	"description": "Replaces the text 'email marketing' with 'email spamming'.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
