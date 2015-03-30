@@ -1,4 +1,4 @@
-## Email is spam Chrome extension
+## Email to Spam Chrome extension
 
 Chrome extension that replaces occurrences of 'email marketing' with 'email spamming'
 
