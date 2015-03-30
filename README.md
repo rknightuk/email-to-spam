@@ -2,7 +2,7 @@
 
 Chrome extension that replaces occurrences of 'email marketing' with 'email spamming'
 
-[Direct download](https://github.com/rmlewisuk/email-spammer/blob/master/EmailIsSpam.crx?raw=true)
+[Direct download](https://github.com/rmlewisuk/email-to-spam/blob/master/EmailIsSpam.crx?raw=true)
 
 ## Installation
 
